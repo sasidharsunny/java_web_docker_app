@@ -29,6 +29,8 @@
 
 			<c:if test="${empty msg}">
 				Welcome Welcome!
+
+                          <h1> Hello Neeraj Sir Welcome to k8s deployment</h1>
 			</c:if>
 		<p>
 			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
@@ -36,19 +38,12 @@
 	</div>
 </div>
 
-<div class="container">
 
-	<div class="row">
-		<div class="col-md-8">
-			<h2>Welcome To Ashok IT..!!</h2>
-			<h3>Contact @ +91 - 9985296677 / 9985396677 / 6301921083 </h3>
-		</div>	
-	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Ashok IT 2023</p>
+		<p>&copy; Sasidhar k8s 2023</p>
 	</footer>
 </div>
 
